@@ -1,0 +1,6 @@
+{
+  "name": "EnergyHub",
+  "description": "Smart energy-management platform to monitor electricity consumption, smart devices, solar generation, and cost intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
